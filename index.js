@@ -4,5 +4,7 @@
  * @returns {Number}
  */
 module.exports = function (a, b) {
+	sum = parseInt(a) + parseInt(b);
 
+	return sum;
 };
